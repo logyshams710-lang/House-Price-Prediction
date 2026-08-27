@@ -11,7 +11,6 @@ A full-stack house price prediction project using:
 ## Model File
 
 The trained model file is available here:
-Download the trained model:
 https://drive.google.com/your-file-link
 
 ## Backend
