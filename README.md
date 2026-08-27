@@ -11,8 +11,8 @@ A full-stack house price prediction project using:
 ## Model File
 
 The trained model file is available here:
-
-[Download house_price.pkl]([YOUR_GOOGLE_DRIVE_LINK](https://drive.google.com/file/d/1C_EN0ur7Yugcl7p8MinJkE88kBaodCOp/view?usp=drive_link))
+Download the trained model:
+https://drive.google.com/your-file-link
 
 ## Backend
 
